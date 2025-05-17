@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GIF_S.props" />
+</Project>

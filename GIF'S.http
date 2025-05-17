@@ -1,0 +1,6 @@
+@GIF_S_HostAddress = http://localhost:5267
+
+GET {{GIF_S_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

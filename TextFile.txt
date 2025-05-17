@@ -1,0 +1,41 @@
+﻿{
+  "title": "C++",
+  "description": "This is a cpp ",
+  "Image": "c.png",
+  "difficulty": 4,
+  "sections": [
+    {
+      "title": "introduction",
+      "descreption": "for beginners",
+      "files": [
+        {
+          "name": "Video1.mp4",
+          "url": "v1.mo",
+          "type": "video"
+        },
+        {
+          "name": "Video2.mp4",
+          "url": "v2.mo",
+          "type": "video"
+        }
+        ]
+   },
+    {
+      "title": "data types",
+      "descreption": "for beginners also",
+      "files": [
+        {
+          "name": "Video3.mp4",
+          "url": "v3.mo",
+          "type": "video"
+        },
+        {
+          "name": "Video4.mp4",
+          "url": "v4.mo",
+          "type": "video"
+        }
+        ]
+   }
+
+    ]
+}
